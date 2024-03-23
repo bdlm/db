@@ -1,0 +1,2 @@
+# automatically suppress generated files in PR diffs
+vendor/**/* linguist-generated=true

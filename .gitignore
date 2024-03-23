@@ -1,1 +1,8 @@
+_*
+.wiki/
+*.DS_Store
+*.env
+go.sum
+go.work
+go.work.sum
 vendor/
