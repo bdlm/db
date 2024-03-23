@@ -8,7 +8,7 @@ require (
 	github.com/go-sql-driver/mysql v1.8.0
 	github.com/newrelic/go-agent/v3 v3.30.0
 	github.com/snowflakedb/gosnowflake v1.8.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
