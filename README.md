@@ -17,7 +17,7 @@ When using `statement.Next()`, always check for `statement.LastErr()` after sinc
 
 ## Quick Start
 
-All `database/sql` compatible database drivers are supported. Additional usage examples are available in [`/examples`](https://github.com/validityhq/go-api-server/tree/master/db/examples). Here are some common connection examples.
+All `database/sql` compatible database drivers are supported. Here are some common connection examples.
 
 * [Postgres](#postgres)
 * [Oracle with tnsnames.ora](#oracle-with-tnsnamesora)
@@ -33,7 +33,7 @@ import (
 	"fmt"
 	"os"
 	"github.com/bdlm/log"
-	"github.com/validityhq/go-api-server/v2/db"
+	"github.com/bdlm/db"
 	"github.com/lib/pq"
 )
 
