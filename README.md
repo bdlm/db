@@ -69,7 +69,7 @@ import (
 	"fmt"
 	"os"
 	"github.com/bdlm/log"
-	"github.com/validityhq/go-api-server/v2/db"
+	"github.com/bdlm/db"
 	"github.com/godror/godror"
 )
 
@@ -112,7 +112,7 @@ import (
 	"fmt"
 	"os"
 	"github.com/bdlm/log"
-	"github.com/validityhq/go-api-server/v2/db"
+	"github.com/bdlm/db"
 	"github.com/godror/godror"
 )
 
