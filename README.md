@@ -1,6 +1,6 @@
 # `db`
 
-The `db` package encourages the use of a prepared statement workflow that matches most EO codebases at Return Path. It also abstracts some `database/sql` package annoyances while remaining fully `database/sql` compatible:
+The `db` package encourages the use of a prepared statement workflow. It also abstracts some `database/sql` package annoyances while remaining fully `database/sql` compatible:
 
 * cursor-interation boilerplate
 * named binds (for drivers that support them)
