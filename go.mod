@@ -5,7 +5,7 @@ go 1.21.6
 require (
 	github.com/bdlm/errors/v2 v2.1.2
 	github.com/bdlm/log/v2 v2.0.4
-	github.com/go-sql-driver/mysql v1.8.0
+	github.com/go-sql-driver/mysql v1.8.1
 	github.com/newrelic/go-agent/v3 v3.30.0
 	github.com/snowflakedb/gosnowflake v1.8.0
 	github.com/stretchr/testify v1.8.4
